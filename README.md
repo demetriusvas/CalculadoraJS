@@ -2,7 +2,7 @@
 
 Teste a calculadora online - [CalculadoraJS](https://www.google.com)
 
-<img width="200" alt="Imagem do site" src="https://github.com/demetriusvas/CalculadoraJS/blob/4f1b55d86c1152af304707c218ebb758d58c0433/assets/img/calculadora-javascript.jpg">
+<img width="250" alt="Imagem do site" src="https://github.com/demetriusvas/CalculadoraJS/blob/4f1b55d86c1152af304707c218ebb758d58c0433/assets/img/calculadora-javascript.jpg">
 
 ## 🛠️ Desafios desse projeto
 
