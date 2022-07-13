@@ -1,3 +1,8 @@
 .rodape {
-
+    border: 1px solid blue;
+    padding: 1rem;
+    margin-top: 10px;
+    position: fixed;
+    bottom:0;
+    left:0;
 }

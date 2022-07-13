@@ -1,0 +1,10 @@
+@import url(_variaveis.css);
+@import url(_reset.css);
+
+.container {
+    padding: 1rem;
+    border: 1px solid red;
+    height: 460px;
+    max-width: 400px;
+    margin: 0 auto;
+}
