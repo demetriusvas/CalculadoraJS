@@ -2,7 +2,7 @@
 
 Teste a calculadora online - [CalculadoraJS](https://www.google.com)
 
-<img width="960" alt="Imagem do site" src="https://github.com/demetriusvas/robotron-2000/blob/77ae8d47575f760ee186c18de86bcb9796d18995/img/screenshot-robotron-2000.png">
+<img width="960" alt="Imagem do site" src="https://github.com/demetriusvas/CalculadoraJS/blob/4f1b55d86c1152af304707c218ebb758d58c0433/assets/img/calculadora-javascript.jpg">
 
 ## 🛠️ Desafios desse projeto
 
