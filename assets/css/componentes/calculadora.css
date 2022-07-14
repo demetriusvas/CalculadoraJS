@@ -14,16 +14,25 @@
 }
 
 .grid-container > div {
-    background-color: #444;
+    background: linear-gradient(90deg, #555555, #5a5a5a, #5f5f5f, #656565, #6a6a6a, #6f6f6f, #757575, #7a7a7a);
     color: #fff;
-    border-radius: 5px;
-    padding: 5px;
-    font-size: 1.5rem;
-    /* width: 65px; */
-    /* height: 55px; */
+    border-radius: 10px;
+    padding: 13px;
+    font-size: 2.25rem;
+}
+
+.grid-container .botao-laranja{
+    background-color: orange;
+    color: white;
+}
+
+.grid-container .display{
+    background-color: #c7cab2;
+    color: #909285;
+    grid-column: 1 / 5;
 }
 
 .botao-somar {
     grid-column: 4 / 5;
-    grid-row: 4 / 6;
-  }
+    grid-row: 5 / 7;
+}
