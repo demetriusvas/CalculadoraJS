@@ -1,8 +1,19 @@
 .rodape {
-    border: 1px solid blue;
+    background-color: dimgray;
+    color: lightgray;
     padding: 1rem;
     margin-top: 10px;
-    position: fixed;
-    bottom:0;
-    left:0;
+    width: 100%;
+    bottom: 0;
+    position: fixed; 
+    font-size: 0.85rem;
+}
+
+.rodape:hover{
+    text-decoration: underline;
+}
+
+.rodape img{
+    width: 1.75rem;
+    vertical-align: middle;
 }
